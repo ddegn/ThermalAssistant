@@ -1,7 +1,7 @@
 # ThermalAssistant
 Code to control an Axisflying thermal camera using a Propeller microcontroller.
 
-Text to go with AnnotatedPcb250326a.jpg
+Text to go with AnnotatedPcb250326a.jpg.
 The blue wire connects to P08 on Propeller and RX on the camera.
 The yellow wire (under the blue wire) connects to P09 on the Propeller and TX on the camera. This is a green wire on the camera's wiring harness.
 The other yellow wire connects P06 to a servo output on either the flight controller or the receiver.
